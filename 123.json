@@ -9,7 +9,7 @@
       {"name":"天堂资源","url":"http://vipmv.cc/api.php/provide/vod","detail":"","isAdult":false},
       {"name":"樱花资源","url":"http://m3u8.apiyhzy.com/api.php/provide/vod","detail":"","isAdult":false},
       {"name":"暴风","url":"https://bfzyapi.com/api.php/provide/vod","detail":"","isAdult":false},
-      {"name":"极速","url":"https://jszyapi.com/api.php/provide/vod","detail":"","isAdult":false}
+      {"name":"极速","url":"https://jszyapi.com/api.php/provide/vod","detail":"","isAdult":false}  // 去掉了此处多余的逗号
     ],
     "yellowFilterEnabled": "true",
     "adFilteringEnabled": "true",
