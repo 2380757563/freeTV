@@ -1,1 +1,39 @@
-{"name":"LibreTV-Settings","time":"1763377595125","cfgVer":"1.0.0","data":{"selectedAPIs":"[\"qiqi\",\"custom_0\",\"custom_1\",\"custom_2\",\"custom_3\",\"custom_4\"]","customAPIs":"[{\"name\":\"紅牛資源\",\"url\":\"http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8\",\"detail\":\"\",\"isAdult\":false},{\"name\":\"天堂资源\",\"url\":\"http://vipmv.cc/api.php/provide/vod\",\"detail\":\"\",\"isAdult\":false},{\"name\":\"樱花资源\",\"url\":\"http://m3u8.apiyhzy.com/api.php/provide/vod\",\"detail\":\"\",\"isAdult\":false},{\"name\":\"暴风\",\"url\":\"https://bfzyapi.com/api.php/provide/vod\",\"detail\":\"\",\"isAdult\":false},{\"name\":\"极速\",\"url\":\"https://jszyapi.com/api.php/provide/vod\",\"detail\":\"\",\"isAdult\":false}]","yellowFilterEnabled":"true","adFilteringEnabled":"true","doubanEnabled":"true","hasInitializedDefaults":"true","viewingHistory":"[{\"title\":\"捕风追影\",\"directVideoUrl\":\"https://hn.bfvvs.com/play/PdR23NEd/index.m3u8\",\"url\":\"player.html?url=https%3A%2F%2Fhn.bfvvs.com%2Fplay%2FPdR23NEd%2Findex.m3u8&title=%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1&source=custom_0&source_code=custom_0&id=116060&index=0&position=2838\",\"episodeIndex\":0,\"sourceName\":\"custom_0\",\"vod_id\":\"116060\",\"sourceCode\":\"custom_0\",\"showIdentifier\":\"custom_0_116060\",\"timestamp\":1763376933826,\"playbackPosition\":2842.267016,\"duration\":8505.416694000007,\"episodes\":[\"https://hn.bfvvs.com/play/PdR23NEd/index.m3u8\"]}]","videoSearchHistory":"[{\"text\":\"捕风追影\",\"timestamp\":1763377057156}]"},"hash":"440e2f8105d37b71b7d9a00974f10c2bef3b6d2b1b51c8f7cadb49b14de142d2"}
+{
+  "name": "LibreTV-Settings",
+  "time": "1763377595125",
+  "cfgVer": "1.0.0",
+  "data": {
+    "selectedAPIs": ["qiqi", "custom_0", "custom_1", "custom_2", "custom_3", "custom_4"],
+    "customAPIs": [
+      {"name":"紅牛資源","url":"http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8","detail":"","isAdult":false},
+      {"name":"天堂资源","url":"http://vipmv.cc/api.php/provide/vod","detail":"","isAdult":false},
+      {"name":"樱花资源","url":"http://m3u8.apiyhzy.com/api.php/provide/vod","detail":"","isAdult":false},
+      {"name":"暴风","url":"https://bfzyapi.com/api.php/provide/vod","detail":"","isAdult":false},
+      {"name":"极速","url":"https://jszyapi.com/api.php/provide/vod","detail":"","isAdult":false}
+    ],
+    "yellowFilterEnabled": "true",
+    "adFilteringEnabled": "true",
+    "doubanEnabled": "true",
+    "hasInitializedDefaults": "true",
+    "viewingHistory": [
+      {
+        "title":"捕风追影",
+        "directVideoUrl":"https://hn.bfvvs.com/play/PdR23NEd/index.m3u8",
+        "url":"player.html?url=https%3A%2F%2Fhn.bfvvs.com%2Fplay%2FPdR23NEd%2Findex.m3u8&title=%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1&source=custom_0&source_code=custom_0&id=116060&index=0&position=2838",
+        "episodeIndex":0,
+        "sourceName":"custom_0",
+        "vod_id":"116060",
+        "sourceCode":"custom_0",
+        "showIdentifier":"custom_0_116060",
+        "timestamp":1763376933826,
+        "playbackPosition":2842.267016,
+        "duration":8505.416694000007,
+        "episodes":["https://hn.bfvvs.com/play/PdR23NEd/index.m3u8"]
+      }
+    ],
+    "videoSearchHistory": [
+      {"text":"捕风追影","timestamp":1763377057156}
+    ]
+  },
+  "hash": "440e2f8105d37b71b7d9a00974f10c2bef3b6d2b1b51c8f7cadb49b14de142d2"
+}
