@@ -36,10 +36,10 @@
         "isAdult": false
       }
     ],
-    "yellowFilterEnabled": "true",
-    "adFilteringEnabled": "true",
-    "doubanEnabled": "true",
-    "hasInitializedDefaults": "true",
+    "yellowFilterEnabled": true,
+    "adFilteringEnabled": true,
+    "doubanEnabled": true,
+    "hasInitializedDefaults": true,
     "viewingHistory": [
       {
         "title": "捕风追影",
