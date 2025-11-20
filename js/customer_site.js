@@ -1,24 +1,4 @@
 const CUSTOMER_SITES = {
-    heimuer: {
-        api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv',
-    },
-    ffzy: {
-        api: 'http://ffzy5.tv',
-        name: '非凡影视',
-        detail: 'http://ffzy5.tv',
-    },
-    tyyszy: {
-        api: 'https://tyyszy.com',
-        name: '天涯资源',
-        detail: 'https://tyyszy.com',
-    },
-    ckzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源',
-        detail: 'https://www.ckzy1.com',
-    },
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
@@ -322,7 +302,7 @@ const CUSTOMER_SITES = {
     kuaiyun: {
         api: 'https://www.kuaiyunzy.com/api.php/provide/vod/',
         name: '快云|点播',
-    }
+    },
 };
 
 // 调用全局方法合并
