@@ -1,6 +1,6 @@
 {
   "name": "LibreTV-Settings",
-  "time": "1763377595125",
+  "time": 1763377595125,
   "cfgVer": "1.0.0",
   "data": {
     "selectedAPIs": ["qiqi", "custom_0", "custom_1", "custom_2", "custom_3", "custom_4"],
@@ -62,6 +62,5 @@
         "timestamp": 1763377057156
       }
     ]
-  },
-  "hash": "440e2f8105d37b71b7d9a00974f10c2bef3b6d2b1b51c8f7cadb49b14de142d2"
+  }
 }
